@@ -1,5 +1,3 @@
-using System;
-
 namespace MvcBowls.Models
 {
     public class ErrorViewModel
