@@ -59,6 +59,11 @@ made changes on VIEW/SHARED/-Layout.chhtml..
 added on <li> for aboutUs page..
 0224 EST
 
+Fuinally Got class room to wrok on assignment..
+thankyou sir you have been so supportive to us thats really appreciated..
 
+Completed Views sections..
+added Bowls.cs and added 6 properties to it.. with get, set methord.
+0328 EST..
 
 
