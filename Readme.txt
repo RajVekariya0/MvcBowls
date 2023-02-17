@@ -76,5 +76,7 @@ Added connectionstrings to appsetting.json file
 
 Tried to add new scaffolding but got an error called  error "CS0116: A namespace cannot directly contain members such as fields or methods
 "
+Thats an syntex error changes it in startup.cs file..
+again tried to do scaffolding again got error but dont know what
 
 
