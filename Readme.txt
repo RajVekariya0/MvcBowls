@@ -67,3 +67,14 @@ added Bowls.cs and added 6 properties to it.. with get, set methord.
 0328 EST..
 
 
+Added MvcBowlContext.cs file to DATA..
+ADDED namespace regarding my product and made changes,..
+0337 EST
+
+Added an calling mathord to Startup.ConfigureServices.cs file.
+Added connectionstrings to appsetting.json file
+
+Tried to add new scaffolding but got an error called  error "CS0116: A namespace cannot directly contain members such as fields or methods
+"
+
+

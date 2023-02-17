@@ -28,7 +28,11 @@ namespace MvcBowls
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddDbContext<MvcBowlContext>(options =>
+    options.UseSqlServer(Configuration.GetConnectionString("DefaultContext")));
         }
+
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -60,5 +64,6 @@ namespace MvcBowls
                 endpoints.MapRazorPages();
             });
         }
+
     }
 }

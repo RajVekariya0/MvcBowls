@@ -14,7 +14,7 @@ namespace MvcBowls.Models
         public string Color { get; set; }
 
         public string Material { get; set; }
-        public decimal Uses { get; set; }
+        public string Uses { get; set; }
         public decimal Price { get; set; }
         public decimal Rating { get; set; }
 
