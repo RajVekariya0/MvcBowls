@@ -42,3 +42,23 @@ lETS TAKE A 10 MIN BREAK... 0316 EST
 Added New controller name as bowls.cs to the conttroller 
 added "using System.Text.Encodings.Web;" namespace to bowlsController.cs 
 
+DATE 2023-02-17 0209 EST
+
+I have an macbook so i can not able to work on visual 2019, so i tried to work on lab computers but yesterday i found that lab PC do not have access on 
+server so everytime im running my code to check is it working or not i am not able to find that out so i have changed pc cause i dont know why is not working
+after 1.30 hours i have changed 10 pc and login my student information plus github and all, aslo the students worker on lab room they also dont know what to do
+they are telling me o access this pc those pc and i have tried in 10 computers but afterwards i figure it out that any lab pc does not have access on server,
+
+so today i tried to use class room's pc but professor told me that i can not use it cause they have exam..
+thats all from yesterday and today's morning..
+
+0214 EST
+
+Added new folder called EarthryBowl to View and added Index.chhtml to it..
+made changes on VIEW/SHARED/-Layout.chhtml..
+added on <li> for aboutUs page..
+0224 EST
+
+
+
+
