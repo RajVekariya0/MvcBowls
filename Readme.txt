@@ -79,4 +79,12 @@ Tried to add new scaffolding but got an error called  error "CS0116: A namespace
 Thats an syntex error changes it in startup.cs file..
 again tried to do scaffolding again got error but dont know what
 
+helllo thee after java's exam
+i got the error i need to change BowlController.cs file changes is "DefaultConnection" i have defaultContext
+done scaffolding..
+
+0623EST
+Added Nuget Packeges
+add-migration InitialCreate -Context MvcBowlContext
+Update-Database
 

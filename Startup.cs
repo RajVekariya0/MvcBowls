@@ -29,7 +29,10 @@ namespace MvcBowls
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddDbContext<MvcBowlContext>(options =>
-    options.UseSqlServer(Configuration.GetConnectionString("DefaultContext")));
+    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+
+            services.AddDbContext<MvcBowlsContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("MvcBowlsContext")));
         }
 
 
