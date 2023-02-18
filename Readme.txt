@@ -88,3 +88,12 @@ Added Nuget Packeges
 add-migration InitialCreate -Context MvcBowlContext
 Update-Database
 
+0657 EST
+Added SeedData to Models folder
+added iformation regarding my product...
+
+Made changes to Program.cs file added 3 4 namespaces and changes on code..
+
+Added aboutUs.chhtml file to Home for nevigation and added an chhtml file to it, regarding my company name and details about product.
+Added Img folder inside wwwroot.
+0717 EST
