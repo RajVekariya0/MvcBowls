@@ -97,3 +97,8 @@ Made changes to Program.cs file added 3 4 namespaces and changes on code..
 Added aboutUs.chhtml file to Home for nevigation and added an chhtml file to it, regarding my company name and details about product.
 Added Img folder inside wwwroot.
 0717 EST
+
+Added Css stylesheet file to CSS folder make it regarding my html and
+added Two images too the Img folder..
+
+0726 EST
